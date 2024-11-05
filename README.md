@@ -1,4 +1,4 @@
 # odin-recipes
 The Odin Project: Basic HTML recipe website
 
-View website [here](www.robotdancemoves.github.io/odin-recipes)
+View website [here](https://robotdancemoves.github.io/odin-recipes)
